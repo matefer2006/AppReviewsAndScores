@@ -1,6 +1,6 @@
 # AppReviewsAndScores
 
-Classification of any app's Google Play store and iOS store reviews using OpenAIs API.
+This project focuses on the extraction of any app's Google Play store and iOS store review and ratings data extraction, and subsequent review sentiment classification using OpenAIs gpt models via API.
 
 Process is divided in 4 stages:
 
