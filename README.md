@@ -2,14 +2,12 @@
 
 Classification of any app's Google Play store and iOS store reviews using OpenAIs API.
 
-Process is divided in 5 stages:
+Process is divided in 4 stages:
 
-1- Extract reviews from iOS store using BeautifulSoup library
+1- Load Support Data
 
-2- Extract reviews from Google Play store using google_play_scraper
+2- Reviews Extraction (Google Play Store and iOS Store)
 
-3- Combine both datasets
+3- App Ratings
 
-4- Use gpt-3.5-turbo-instruct model via OpenAIs API to classify each review in Positive, Neutral or Negative
-
-5- Upload results to database
+4- Databricks Automation
