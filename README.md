@@ -6,7 +6,7 @@ Process is divided in 4 stages:
 
 1- Load Support Data
 
-2- Reviews Extraction (Google Play Store and iOS Store)
+2- Reviews Extraction (Google Play Store and iOS Store, sentiment analysis)
 
 3- App Ratings
 
